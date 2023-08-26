@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/move-zeroes/description/
+# https://leetcode.com/problems/move-zeroes/
 
 from typing import List
 
